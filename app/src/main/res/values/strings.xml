@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">MarlenAlcaraz</string>
+    <string name="yellow_start">Yellow start</string>
+    <string name="bio">
+        Hola, mi nombre es Marlen
+
+        \n\n
+        Me gusta escuchar musica.
+        \n\n
+        De niña me gustaba mucho esconderme por horas en algun lugar de mi casa.
+        \n
+        Tambien me gustaba usar vestidos de colores pastel y floreados. Así como tambien usaba mucho los sombreros.
+        \n\n
+        Me gustaba que me llevaran a comer pollo rostizado los domingos. Me gustaba mucho el lugar porque habia muchos juegos, como toboganes.
+        \n
+        Actualmente tengo 24 años y estudio en el ITSUR la carrera de Sistemas Computacionales. Estoy cursando el 7 semestre.
+        \n
+        Ademas de estudiar tengo un trabajo de medio turno en las tardes. Voy a cumplir un año laborando en noviembre de este año.
+        \n\n
+        No me gusta el chocolate y en ocaciones los lugares con mucha gente.
+        \n\n
+        Mi animal favorito son los Hamsters, hace 3 años tuve uno de mascota.
+        \n
+        Y justo ahora estoy desarrollando esta aplicacion.
+        \n\n
+    </string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+
+
+</resources>
